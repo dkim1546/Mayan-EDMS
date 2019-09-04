@@ -198,11 +198,11 @@ a i {
 /* List item view */
 
 .panel-item {
-    box-shadow: 2px 2px 18px rgba(0, 0, 0, .2);
+    box-shadow: 2px 2px 18px rgba(200, 0, 0, .2);
 }
 
 .panel-item > .panel-heading {
-    padding: 1px 10px;
+    padding: 1px 100px;
 }
 
 .panel-item > .panel-body {
@@ -211,6 +211,27 @@ a i {
 
 .list-extra-column-label {
     font-weight: bold;
+}
+
+/* Trying to increase accessability */
+.panel-footer {
+  color: #000000;
+}
+
+.pull-left {
+  color: #000000;
+}
+
+.well {
+  background-color: #000000;
+}
+
+.navbar {
+  background-color: #000000;
+}
+
+.btn {
+  background-color: #000000;
 }
 
 /* Content */
